@@ -1,6 +1,5 @@
 from pywikibot.data import api
 import pywikibot
-import re
 
 # Global variables
 wikipedia_site = pywikibot.Site("en", "wikipedia")
